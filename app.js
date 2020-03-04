@@ -8,7 +8,6 @@ const users = [
         "id":1,
         "name":"Charuwat Sronkerd",
         "email":"Charuwat.sr@ku.th"
-        "kuy":"Payut"
     },
     {
         "id":2,
